@@ -15,14 +15,14 @@ Feel free to add a star ⭐ to the repository to promote the project!
 
 ### Complete Bot
 
-Atlanta offers (non-exhaustive list):
+DeltaBot offers (non-exhaustive list):
 *   ✉️ Support for commands in direct messages
 *   🇫🇷 Support for translations (illimited languages)
 *   ⚙️ Guild configuration (prefix, ignored channels, etc...)
 *   😀 Commands made pleasant thanks to the many emojis
 *   🗳️ Support for Discordbots.org votes with rewards
 
-Atlanta also adds **a new mention** like @everyone and @here, the `@someone`, which allows you to pick a random member of the server!
+DeltaBot also adds **a new mention** like @everyone and @here, the `@someone`, which allows you to pick a random member of the server!
 
 ### Many commands
 
@@ -40,7 +40,7 @@ DeltaBot has a lot of features, with **9 main categories**:
 
 ### A powerful Dashboard
 
-Atlanta has its own dashboard which also offers many features! The dashboard runs with Express and EJS!
+DeltaBot has its own dashboard which also offers many features! The dashboard runs with Express and EJS!
 
 <img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://i.imgur.com/G9JhlqT.png" height="200" width="350"/>
 <img align="center" style="float: left; margin: 0 10px 0 0;" src="https://i.imgur.com/FdDCZcY.png" height="200" width="350"/>
@@ -61,7 +61,7 @@ If you don't want to edit the code of the bot, a permanent online version is ava
 ### Customized version
 
 If you want to edit the bot's code and host it on your machine, it's possible!  
-You must follow the [installation guide](https://www.atlanta-bot.fr/installation/) to properly install it! Don't worry, it's fast and simple if you follow the guide!
+You must follow the [installation guide by Atlanta](https://www.atlanta-bot.fr/installation/) to properly install it! Don't worry, it's fast and simple if you follow the guide!
 
 ## Links
 

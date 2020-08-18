@@ -26,7 +26,7 @@ Atlanta also adds **a new mention** like @everyone and @here, the `@someone`, wh
 
 ### Many commands
 
-DeltaBot has a lot of features, with **7 main categories**:
+DeltaBot has a lot of features, with **9 main categories**:
 
 *   👩‍💼 **Administration**: `slowmode`, `welcome`, `addcommand`, `automod`, `backup` and **11** more! 
 *   🚓 **Moderation**: `see-warns`, `setlogs`, `checkinvites`, `poll`, and **6** more! 

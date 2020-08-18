@@ -4,7 +4,7 @@
 
 [![](https://img.shields.io/discord/736276043836686346.svg?logo=discord&colorB=7289DA)](https://discord.gg/cAmtjYj)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
-[![](https://img.shields.io/badge/paypal-donate-blue.svg)](paypal.me/GalackQSM)
+[![](https://img.shields.io/badge/paypal-donate-blue.svg)](https://paypal.me/GalackQSM)
 
 > This bot is used by more than +54,239 Discord users and more than +160 servers.
 

@@ -1,6 +1,6 @@
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Atlanta" src="https://delta-bot.com/assets/img/logo.png">  
 
-# Atlanta
+# DeltaBot
 
 [![](https://img.shields.io/discord/736276043836686346.svg?logo=discord&colorB=7289DA)](https://discord.gg/cAmtjYj)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
@@ -26,7 +26,7 @@ Atlanta also adds **a new mention** like @everyone and @here, the `@someone`, wh
 
 ### Many commands
 
-Atlanta has a lot of features, with **7 main categories**:
+DeltaBot has a lot of features, with **7 main categories**:
 
 *   👩‍💼 **Administration**: `slowmode`, `welcome`, `addcommand`, `automod`, `backup` and **11** more! 
 *   🚓 **Moderation**: `see-warns`, `setlogs`, `checkinvites`, `poll`, and **6** more! 
@@ -67,18 +67,22 @@ You must follow the [installation guide](https://www.atlanta-bot.fr/installation
 
 *   [Commands List](https://www.atlanta-bot.fr/commands)
 *   [Installation Guide](https://www.atlanta-bot.fr/installation)
-*   [F.A.Q](https://www.atlanta-bot.fr/faq/)
-*   [Discord](https://discord.atlanta-bot.fr)
-*   [Twitter](https://twitter.com/AtlantaBot)
-*   [Github](https://github.com/Androz2091/AtlantaBot/)
-*   [Dashboard](https://dashboard.atlanta-bot.fr)
+*   [F.A.Q](https://delta-bot.com/foire-aux-questions/)
+*   [Discord](https://discord.gg/cAmtjYj)
+*   [Twitter](https://twitter.com/DeltaBotDiscord)
+*   [Github](https://github.com/GalackQSM/DeltaBot/)
+*   [Dashboard](http://dashboard.delta-bot.com:8080/)
 
 ## Contributing
 
-Before **creating an issue**, please ensure that it hasn't already been reported/suggested, and double-check the [F.A.Q](https://www.atlanta-bot.fr/faq).   
-And if you have a question, please ask it in the [Discord server](https://discord.atlanta-bot.fr/) instead of opening an issue.
-If you wish to contribute to the Atlanta codebase or documentation, feel free to fork the repository and submit a pull request!
+Before **creating an issue**, please ensure that it hasn't already been reported/suggested, and double-check the [F.A.Q](https://delta-bot.com/foire-aux-questions).   
+And if you have a question, please ask it in the [Discord server](https://discord.gg/cAmtjYj) instead of opening an issue.
+If you wish to contribute to the DeltaBot codebase or documentation, feel free to fork the repository and submit a pull request!
 
 ## License
 
-Atlanta is licensed under the GPL 3.0 license. See the file `LICENSE` for more information. If you plan to use any part of this source code in your own bot, I would be grateful if you would include some form of credit somewhere.
+DeltaBot is licensed under the GPL 3.0 license. See the file `LICENSE` for more information. If you plan to use any part of this source code in your own bot, I would be grateful if you would include some form of credit somewhere.
+
+## AtlantaBot source
+
+Official AtlantaBot source from Androz209, edit by GalackQSM

@@ -85,7 +85,7 @@ DeltaBot is licensed under the GPL 3.0 license. See the file `LICENSE` for more 
 
 ## AtlantaBot source
 
-Official [AtlantaBot](https://github.com/Androz2091/AtlantaBot) source from Androz209, edit by GalackQSM
+Official [AtlantaBot](https://github.com/Androz2091/AtlantaBot) source from Androz2091, edit by GalackQSM
 
 ## Contributors
 

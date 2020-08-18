@@ -28,15 +28,15 @@ DeltaBot also adds **a new mention** like @everyone and @here, the `@someone`, w
 
 DeltaBot has a lot of features, with **9 main categories**:
 
-*   👩‍💼 **Administration**: `slowmode`, `welcome`, `addcommand`, `automod`, `backup` and **11** more! 
-*   🚓 **Moderation**: `see-warns`, `setlogs`, `checkinvites`, `poll`, and **6** more! 
+*   👩‍💼 **Administration**: `slowmode`, `welcome`, `addcommand`, `automod`, `backup` and **16** more! 
+*   🚓 **Moderation**: `see-warns`, `setlogs`, `checkinvites`, `poll`, and **10** more! 
 *   🎫 **Ticket**: `ticket_close`, `ticket_create`
 *   🔞 **Nsfw**: `4k`, `anal`, `ass`, `gonewild`, `hentai_anal`, and **8** more! 
 *   💰 **Economy**: `profile`, `work`, `badge`, `slots`, `balance`, `leaderboard`, and **6** more! 
 *   📷 **Images**: `avatar`, `blur`, `brazzers`, `burn`, `calin`, `captcha`, and **53** more! 
-*   👻 **Fun**: `lmg`, `findwords`, `flip`, `lovecalc`, `random` and **6** more! 
-*   🖨️ **General**: `minimize`, `setafk`, `translate`, `remindme`, `hastebin`, `fortnite`, `minecraft` and **10** more! 
-*   👑 **Owner**: `eval`, `getinvite`, `servers-list` and **2** more!
+*   👻 **Fun**: `lmg`, `findwords`, `flip`, `lovecalc`, `random` and **8** more! 
+*   🖨️ **General**: `minimize`, `setafk`, `translate`, `remindme`, `hastebin`, `fortnite`, `minecraft` and **19** more! 
+*   👑 **Owner**: `eval`, `say`, `servers-list` and **1** more!
 
 ### A powerful Dashboard
 
@@ -65,7 +65,6 @@ You must follow the [installation guide by Atlanta](https://www.atlanta-bot.fr/i
 
 ## Links
 
-*   [Commands List](https://www.atlanta-bot.fr/commands)
 *   [Installation Guide](https://www.atlanta-bot.fr/installation)
 *   [F.A.Q](https://delta-bot.com/foire-aux-questions/)
 *   [Discord](https://discord.gg/cAmtjYj)

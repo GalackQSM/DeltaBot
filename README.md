@@ -1,55 +1,59 @@
-<img alt="GalackRaid" src="https://i.imgur.com/SNBEHsV.png">  
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="DeltaBot" src="http://delta-bot.com/assets/img/logo.png">  
 
-# GalackRaid
+# DeltaBot
 
-[![](https://img.shields.io/discord/745382663896039496.svg?logo=discord&colorB=7289DA)](https://discord.gg/XH7zQ8s)
+[![](https://img.shields.io/discord/745382663896039496.svg?logo=discord&colorB=7289DA)](https://discord.gg/cAmtjYj)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![](https://img.shields.io/badge/paypal-donate-blue.svg)](https://paypal.me/GalackQSM)
+[![](https://www.codefactor.io/repository/github/GalackQSM/DeltaBot/badge)](https://www.codefactor.io/repository/github/Androz2091/AtlantaBot)
 
-GalackRaid est un bot raid Discord open source codé en JavaScript avec [Discord.js](https://discord.js.org) par [GalackQSM](https://github.com/GalackQSM).  
-N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le projet!
+> This bot is used by more than +50,000 Discord users and more than +160 servers.
 
-### Bot
+DeltaBot is a open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) and [Mongoose](https://mongoosejs.com/docs/api.html) by [GalackQSM](https://github.com/GalackQSM).  
+Feel free to add a star ⭐ to the repository to promote the project!
 
-Offres GalackRaid:
-*   ✉️ Des commandes RAID
-*   🇫🇷 Des commandes de type NORMAL
-*   ⚙️ Chaque commande raid faite dans le serveur, le message se supprime
-*   😀 Ultra fluide, plus de 600 messages en moins de 3 secondes
+## Features
 
-### Commandes
+### Complete Bot
 
-GalackRaid a beaucoup de fonctionnalités avec **2 catégories principales**:
-# Commande RAID:
-* 1help - Afficher les commandes raid
-* deletechannels - Supprime tous les salons
-* deleteroles - Supprime tous les rôles
-* channels [Nom] - Crée 50 salons avec le nom choisis
-* spam [Message] - Spams envoyés dans le salon
-* kickall - Kicker tout les membres du serveur
-* banall - Bannir tout les membres du serveur
-* spmall [Message] - Spammer dans tout les salons en même temps
-* pmeveryone [Message] - DM tout les membres du serveur
+DeltaBot offers (non-exhaustive list):
+*   ✉️ Support for commands in direct messages
+*   🇫🇷 Support for translations (illimited languages)
+*   ⚙️ Guild configuration (prefix, ignored channels, etc...)
+*   😀 Commands made pleasant thanks to the many emojis
 
-# Commande NORMAL:
-Commandes Admin:
-* elp - Afficher les commandes
-* utomod - Activer l'automod sur votre serveur
-* ntilink - Activer l'anti-link sur votre serveur
-Commandes Image:
-* cat - Afficher un chat
-* dog - Afficher un chien
-* weed - Afficher de la weed
-* punch - Avoir envie de punch
+Atlanta also adds **a new mention** like @everyone and @here, the `@someone`, which allows you to pick a random member of the server!
 
-## Installation
+### Many commands
 
-* Aller dans le fichier `index.js` et toute a la fin mettez votre token
-* Ensuite allez dans CMD et faite `node index.js`
+DeltaBot has a lot of features, with **9 main categories**:
 
-## Liens
+*   👩‍💼 **Administration**: `slowmode`, `welcome`, `addcommand`, `automod`, `backup` and **+** more! 
+*   🚓 **Moderation**: `see-warns`, `setlogs`, `checkinvites`, `poll`, and **+** more! 
+*   💰 **Economy**: `profile`, `work`, `badge`, `slots`, `balance`, `leaderboard`, and **+** more! 
+*   👻 **Fun**: `lmg`, `findwords`, `flip`, `lovecalc`, `random` and **+** more! 
+*   🖨️ **General**: `minimize`, `setafk`, `translate`, `remindme`, `hastebin`, `fortnite`, `minecraft` and **+** more! 
+*   🖨️ **Ticket**: `ticket_create`, `ticket_close` ! 
+*   👑 **Owner**: `eval`, `getinvite`, `servers-list` and **+** more!
 
-*   [Discord](https://discord.gg/XH7zQ8s)
-*   [Twitter](https://twitter.com/Galack_QSM)
+### A powerful Dashboard
+
+DeltaBot has its own dashboard which also offers many features! The dashboard runs with Express and EJS!
+
+<img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://zupimages.net/up/19/31/c3ya.png" height="200" width="350"/>
+<img align="center" style="float: left; margin: 0 10px 0 0;" src="https://zupimages.net/up/19/31/vnq5.png" height="200" width="350"/>
+<img align="center" style="float: centrer; margin: 0 10px 0 0;" src="https://zupimages.net/up/19/31/htga.png" height="200" width="350"/>
+
+You can directly **edit your configuration**, **manage your servers**, **view rankings**, **modify your profile** and much more!
+
+## Links
+
+*   [F.A.Q](http://delta-bot.com/foire-aux-questions/)
+*   [Discord](https://discord.gg/cAmtjYj)
+*   [Twitter](https://twitter.com/DeltaBotDiscord)
 *   [Github](https://github.com/GalackQSM/DeltaBot/)
+*   [Dashboard](http://dashboard.delta-bot.com:8080/)
 
+## Source
+
+Atlanta is licensed under the GPL 3.0 license. See the file `LICENSE` for more information. If you plan to use any part of this source code in your own bot, I would be grateful if you would include some form of credit somewhere.

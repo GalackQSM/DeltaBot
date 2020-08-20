@@ -5,7 +5,7 @@
 [![](https://img.shields.io/discord/745382663896039496.svg?logo=discord&colorB=7289DA)](https://discord.gg/cAmtjYj)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![](https://img.shields.io/badge/paypal-donate-blue.svg)](https://paypal.me/GalackQSM)
-[![](https://www.codefactor.io/repository/github/GalackQSM/DeltaBot/badge)](https://www.codefactor.io/repository/github/Androz2091/AtlantaBot)
+[![](https://www.codefactor.io/repository/github/GalackQSM/DeltaBot/badge)](https://www.codefactor.io/repository/github/GalackQSM/DeltaBot)
 
 > This bot is used by more than +50,000 Discord users and more than +160 servers.
 
@@ -35,16 +35,6 @@ DeltaBot has a lot of features, with **9 main categories**:
 *   🖨️ **General**: `minimize`, `setafk`, `translate`, `remindme`, `hastebin`, `fortnite`, `minecraft` and **+** more! 
 *   🖨️ **Ticket**: `ticket_create`, `ticket_close` ! 
 *   👑 **Owner**: `eval`, `getinvite`, `servers-list` and **+** more!
-
-### A powerful Dashboard
-
-DeltaBot has its own dashboard which also offers many features! The dashboard runs with Express and EJS!
-
-<img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://zupimages.net/up/19/31/c3ya.png" height="200" width="350"/>
-<img align="center" style="float: left; margin: 0 10px 0 0;" src="https://zupimages.net/up/19/31/vnq5.png" height="200" width="350"/>
-<img align="center" style="float: centrer; margin: 0 10px 0 0;" src="https://zupimages.net/up/19/31/htga.png" height="200" width="350"/>
-
-You can directly **edit your configuration**, **manage your servers**, **view rankings**, **modify your profile** and much more!
 
 ## Links
 

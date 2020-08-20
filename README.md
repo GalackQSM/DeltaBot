@@ -22,7 +22,7 @@ DeltaBot offers (non-exhaustive list):
 *   ⚙️ Guild configuration (prefix, ignored channels, etc...)
 *   😀 Commands made pleasant thanks to the many emojis
 
-Atlanta also adds **a new mention** like @everyone and @here, the `@someone`, which allows you to pick a random member of the server!
+DeltaBot also adds **a new mention** like @everyone and @here, the `@someone`, which allows you to pick a random member of the server!
 
 ### Many commands
 

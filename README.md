@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/paypal-donate-blue.svg)](https://paypal.me/GalackQSM)
 [![](https://www.codefactor.io/repository/github/GalackQSM/DeltaBot/badge)](https://www.codefactor.io/repository/github/GalackQSM/DeltaBot)
 
-> This bot is used by more than +50,000 Discord users and more than +160 servers.
+> This bot is used by more than +50,000 Discord users and more than +170 servers.
 
 DeltaBot is a Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) and [Mongoose](https://mongoosejs.com/docs/api.html) by [GalackQSM](https://github.com/GalackQSM).  
 Feel free to add a star ⭐ to the repository to promote the project!
@@ -26,7 +26,7 @@ DeltaBot also adds **a new mention** like @everyone and @here, the `@someone`, w
 
 ### Many commands
 
-DeltaBot has a lot of features, with **9 main categories**:
+DeltaBot has a lot of features, with **8 main categories**:
 
 *   👩‍💼 **Administration**: `slowmode`, `welcome`, `addcommand`, `automod`, `backup` and **+** more! 
 *   🚓 **Moderation**: `see-warns`, `setlogs`, `checkinvites`, `poll`, and **+** more! 

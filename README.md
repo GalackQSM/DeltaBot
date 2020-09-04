@@ -9,7 +9,7 @@
 
 > This bot is used by more than +50,000 Discord users and more than +160 servers.
 
-DeltaBot is a open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) and [Mongoose](https://mongoosejs.com/docs/api.html) by [GalackQSM](https://github.com/GalackQSM).  
+DeltaBot is a Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) and [Mongoose](https://mongoosejs.com/docs/api.html) by [GalackQSM](https://github.com/GalackQSM).  
 Feel free to add a star ⭐ to the repository to promote the project!
 
 ## Features
@@ -33,7 +33,7 @@ DeltaBot has a lot of features, with **9 main categories**:
 *   💰 **Economy**: `profile`, `work`, `badge`, `slots`, `balance`, `leaderboard`, and **+** more! 
 *   👻 **Fun**: `lmg`, `findwords`, `flip`, `lovecalc`, `random` and **+** more! 
 *   🖨️ **General**: `minimize`, `setafk`, `translate`, `remindme`, `hastebin`, `fortnite`, `minecraft` and **+** more! 
-*   🖨️ **Ticket**: `ticket_create`, `ticket_close` ! 
+*   🎫 **Ticket**: `ticket_create`, `ticket_close` ! 
 *   👑 **Owner**: `eval`, `getinvite`, `servers-list` and **+** more!
 
 ## Links

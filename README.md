@@ -34,7 +34,6 @@ DeltaBot has a lot of features, with **9 main categories**:
 *   👻 **Fun**: `lmg`, `findwords`, `flip`, `lovecalc`, `random` and **+** more! 
 *   🖨️ **General**: `minimize`, `setafk`, `translate`, `remindme`, `hastebin`, `fortnite`, `minecraft` and **+** more! 
 *   🎫 **Ticket**: `ticket_create`, `ticket_close` ! 
-*   👑 **Owner**: `eval`, `getinvite`, `servers-list` and **+** more!
 
 ## Links
 

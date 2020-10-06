@@ -10,8 +10,7 @@
 > Ce bot est utilisé par plus de +50 000 utilisateurs Discord et plus de +170 serveurs.
 
 DeltaBot est un bot Discord codé en JavaScript avec [Discord.js](https://discord.js.org) et [Mongoose](https://mongoosejs.com/docs/api.html) par [GalackQSM](https://github.com/GalackQSM).  
-Feel free to add a star ⭐ to the repository to promote the project!
-
+N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le projet!
 ## Features
 
 ### Bot complet
@@ -25,9 +24,9 @@ Offres de DeltaBot:
 * 👁️ Le seul bot qui est capable de tout faire
 * ⚙️ Rejoins la communautés de DeltaBot Inc
 
-### Many commands
+### Les commandes
 
-DeltaBot has a lot of features, with **8 main categories**:
+DeltaBot a beaucoup de fonctionnalités, avec **11 catégories principales**:
 
 *   👩‍💼 **Administration**: `slowmode`, `welcome`, `addcommand`, `automod`, `backup` et **+**! 
 *   🚓 **Moderation**: `see-warns`, `setlogs`, `checkinvites`, `poll`, et **+**! 

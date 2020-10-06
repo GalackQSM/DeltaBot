@@ -2,47 +2,49 @@
 
 # DeltaBot
 
-[![](https://img.shields.io/discord/745382663896039496.svg?logo=discord&colorB=7289DA)](https://discord.gg/cAmtjYj)
+[![](https://img.shields.io/discord/761541041152983050.svg?logo=discord&colorB=7289DA)](https://discord.gg/VAatzcw)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![](https://img.shields.io/badge/paypal-donate-blue.svg)](https://paypal.me/GalackQSM)
 [![](https://www.codefactor.io/repository/github/GalackQSM/DeltaBot/badge)](https://www.codefactor.io/repository/github/GalackQSM/DeltaBot)
 
-> This bot is used by more than +50,000 Discord users and more than +170 servers.
+> Ce bot est utilisé par plus de +50 000 utilisateurs Discord et plus de +170 serveurs.
 
-DeltaBot is a Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) and [Mongoose](https://mongoosejs.com/docs/api.html) by [GalackQSM](https://github.com/GalackQSM).  
+DeltaBot est un bot Discord codé en JavaScript avec [Discord.js](https://discord.js.org) et [Mongoose](https://mongoosejs.com/docs/api.html) par [GalackQSM](https://github.com/GalackQSM).  
 Feel free to add a star ⭐ to the repository to promote the project!
 
 ## Features
 
-### Complete Bot
+### Bot complet
 
-DeltaBot offers (non-exhaustive list):
-*   ✉️ Support for commands in direct messages
-*   🇫🇷 Support for translations (illimited languages)
-*   ⚙️ Guild configuration (prefix, ignored channels, etc...)
-*   😀 Commands made pleasant thanks to the many emojis
-
-DeltaBot also adds **a new mention** like @everyone and @here, the `@someone`, which allows you to pick a random member of the server!
+Offres de DeltaBot:
+* 💥 Un bot 100% Français pas comme les autres
+* 💯 Plus de 180 commandes + commandes personnalisable
+* 🌐 Des commandes en tout genre, Invitations, Fun, Economie, Modération, Général, Image etc...
+* 🤩 Besoin que d'un bot au mieux de plusieurs
+* 🏆 En ligne 7j/7 24h/24 même avec mise à jour
+* 👁️ Le seul bot qui est capable de tout faire
+* ⚙️ Rejoins la communautés de DeltaBot Inc
 
 ### Many commands
 
 DeltaBot has a lot of features, with **8 main categories**:
 
-*   👩‍💼 **Administration**: `slowmode`, `welcome`, `addcommand`, `automod`, `backup` and **+** more! 
-*   🚓 **Moderation**: `see-warns`, `setlogs`, `checkinvites`, `poll`, and **+** more! 
-*   💰 **Economy**: `profile`, `work`, `badge`, `slots`, `balance`, `leaderboard`, and **+** more! 
-*   👻 **Fun**: `lmg`, `findwords`, `flip`, `lovecalc`, `random` and **+** more! 
-*   🖨️ **General**: `minimize`, `setafk`, `translate`, `remindme`, `hastebin`, `fortnite`, `minecraft` and **+** more! 
-*   🎫 **Ticket**: `ticket_create`, `ticket_close` ! 
+*   👩‍💼 **Administration**: `slowmode`, `welcome`, `addcommand`, `automod`, `backup` et **+**! 
+*   🚓 **Moderation**: `see-warns`, `setlogs`, `checkinvites`, `poll`, et **+**! 
+*   💰 **Economie**: `profile`, `work`, `badge`, `slots`, `balance`, `leaderboard`, et **+**! 
+*   👻 **Fun**: `lmg`, `findwords`, `flip`, `lovecalc`, `random` et **+**! 
+*   📷 **Images**: `avatar`, `brazzers`, `punch`, `instagram`, `weed`, `discordhouse` et **+**! 
+*   🖨️ **Général**: `minimize`, `setafk`, `translate`, `remindme`, `hastebin`, `fortnite`, `minecraft` et **+**! 
+*   🎫 **Ticket**: `ticket`, `setlogs`, `close` ! 
+*   ✉️ **Invitations**: `configjoin`, `invite`, `leaderboard`, `restoreinvites`, `addbonus` et **+**! 
+*   🔞 **Nsfw**: `4k`, `anal`, `gonewild`, `hentai`, `pgif` et **+**! 
 
 ## Links
 
 *   [F.A.Q](http://delta-bot.com/foire-aux-questions/)
-*   [Discord](https://discord.gg/cAmtjYj)
+*   [Discord](https://discord.gg/VAatzcw)
 *   [Twitter](https://twitter.com/DeltaBotDiscord)
 *   [Github](https://github.com/GalackQSM/DeltaBot/)
 *   [Dashboard](http://dashboard.delta-bot.com:8080/)
 
-## Source
-
-Atlanta is licensed under the GPL 3.0 license. See the file `LICENSE` for more information. If you plan to use any part of this source code in your own bot, I would be grateful if you would include some form of credit somewhere.
+[![](https://delta-bot.com/banner.gif)](https://discord.gg/VAatzcw)

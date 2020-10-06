@@ -11,7 +11,7 @@
 
 DeltaBot est un bot Discord codé en JavaScript avec [Discord.js](https://discord.js.org) et [Mongoose](https://mongoosejs.com/docs/api.html) par [GalackQSM](https://github.com/GalackQSM).  
 N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le projet!
-## Features
+## Informations
 
 ### Bot complet
 
@@ -38,12 +38,12 @@ DeltaBot a beaucoup de fonctionnalités, avec **11 catégories principales**:
 *   ✉️ **Invitations**: `configjoin`, `invite`, `leaderboard`, `restoreinvites`, `addbonus` et **+**! 
 *   🔞 **Nsfw**: `4k`, `anal`, `gonewild`, `hentai`, `pgif` et **+**! 
 
-## Links
+## Lien utiles
 
 *   [F.A.Q](http://delta-bot.com/foire-aux-questions/)
 *   [Discord](https://discord.gg/VAatzcw)
 *   [Twitter](https://twitter.com/DeltaBotDiscord)
 *   [Github](https://github.com/GalackQSM/DeltaBot/)
-*   [Dashboard](http://dashboard.delta-bot.com:8080/)
+*   [Dashboard](http://dashboard.delta-bot.com/)
 
 [![](https://delta-bot.com/banner.gif)](https://discord.gg/VAatzcw)

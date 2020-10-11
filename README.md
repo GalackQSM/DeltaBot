@@ -17,7 +17,7 @@ N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le pr
 
 Offres de DeltaBot:
 * 💥 Un bot 100% Français pas comme les autres
-* 💯 Plus de 180 commandes + commandes personnalisable
+* 💯 Plus de 200 commandes + commandes personnalisable
 * 🌐 Des commandes en tout genre, Invitations, Fun, Economie, Modération, Général, Image etc...
 * 🤩 Besoin que d'un bot au mieux de plusieurs
 * 🏆 En ligne 7j/7 24h/24 même avec mise à jour
@@ -26,7 +26,7 @@ Offres de DeltaBot:
 
 ### Les commandes
 
-DeltaBot a beaucoup de fonctionnalités, avec **11 catégories principales**:
+DeltaBot a beaucoup de fonctionnalités, avec **12 catégories principales**:
 
 *   👩‍💼 **Administration**: `slowmode`, `welcome`, `addcommand`, `automod`, `backup` et **+**! 
 *   🚓 **Moderation**: `see-warns`, `setlogs`, `checkinvites`, `poll`, et **+**! 
@@ -35,8 +35,15 @@ DeltaBot a beaucoup de fonctionnalités, avec **11 catégories principales**:
 *   📷 **Images**: `avatar`, `brazzers`, `punch`, `instagram`, `weed`, `discordhouse` et **+**! 
 *   🖨️ **Général**: `minimize`, `setafk`, `translate`, `remindme`, `hastebin`, `fortnite`, `minecraft` et **+**! 
 *   🎫 **Ticket**: `ticket`, `setlogs`, `close` ! 
+*   🎁 **Giveaway**: `create`, `delete`, `edit`, `end`, `reroll` ! 
 *   ✉️ **Invitations**: `configjoin`, `invite`, `leaderboard`, `restoreinvites`, `addbonus` et **+**! 
 *   🔞 **Nsfw**: `4k`, `anal`, `gonewild`, `hentai`, `pgif` et **+**! 
+
+## Dashboard
+<img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://i.imgur.com/AOfZOaw.png" height="200" width="350"/>
+<img align="center" style="float: left; margin: 0 10px 0 0;" src="https://i.imgur.com/dAfemx9.png" height="200" width="350"/>
+<img align="center" style="float: centrer; margin: 0 10px 0 0;" src="https://i.imgur.com/yebxX10.png" height="200" width="350"/>
+
 
 ## Lien utiles
 
